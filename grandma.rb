@@ -1,7 +1,5 @@
 def speak_to_grandma(string)
   
-  string = gets.chomp
-  
   if string == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN"
     elsif string == string.upcase
